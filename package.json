@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Gerald Kim",
 	"description": "This project is meant to help me learn node.js",
-	"keywords": ["learning", "node.js", "npm"],
+	"keywords": ["learning", "node.js", "npm", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
