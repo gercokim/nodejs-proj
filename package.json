@@ -3,6 +3,7 @@
 	"author": "Gerald Kim",
 	"description": "This project is meant to help me learn node.js",
 	"keywords": ["learning", "node.js", "npm", "freecodecamp"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
